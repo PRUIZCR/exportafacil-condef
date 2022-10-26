@@ -1,0 +1,26 @@
+ng build --configuration=desarrollo --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/ccmn/
+ng build --configuration=calidad --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/ccmn/
+ng build --configuration=production --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/ccmn/
+
+
+ng build --configuration=desarrollo --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/dpmn/
+ng build --configuration=calidad --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/dpmn/
+ng build --configuration=production --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/dpmn/
+
+
+mm
+
+ng g m core
+https://flexboxfroggy.com/#es
+D:\cursos\angular\produccion\desarrollo\CONDPMN\controladuaneroms-prevencion-cuentacorrienteimpo-condpmn-frontend-2021-PAS059\src
+D:\cursos\angular\produccion\desarrollo\CONDPMN\controladuaneroms-prevencion-cuentacorrienteimpo-condpmn-frontend-2022-PAS012-001\src
+
+ng build --configuration=desarrollo --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/condpmn/
+
+ng build --configuration=desarrollo --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/dpmn/
+
+ng build --configuration=desarrollo --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/conpci/
+
+ng build --configuration=calidad --base-href=/a/app/ctrladuanero/prev/ctacorrimpo/conpci/
+
+ArianaAntonellaBeatriz
