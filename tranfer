@@ -1,1 +1,13 @@
 https://www.transfernow.net/dl/202210269qKVuP8d/oYTF3klK
+https://api-seguridad-desa.sunat.gob.pe:443/v1/clientesextranet/0f57a705-9406-4dc2-ad98-375c4c8e7e43/oauth2/token/
+grant_type
+client_secret
+client_id
+scope
+
+
+client_credentials
+wexThGCiX63RxY+cN9jMx/7XEi5/EUyP+ikPhD/og9
+0f57a705-9406-4dc2-ad98-375c4c8e7e43
+https://api.sunat.gob.pe/v1/controladuanero/exportafacil
+
